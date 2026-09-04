@@ -6,7 +6,7 @@ Get a free API key at https://rawg.io/apidocs
 import os
 import requests
 
-API_KEY = "7bb3e3ed638d4d34b35ea69025803378"  # <-- paste your RAWG API key here
+API_KEY = ""  # <-- paste your RAWG API key here
 BASE_URL = "https://api.rawg.io/api"
 IMAGE_DIR = "media"
 
